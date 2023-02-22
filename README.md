@@ -1,4 +1,4 @@
-# Relative Spatial Case
+# Relative Space Case
 
 An project to explore embedded programming using the Atmel ATMega328p, a GPS module, accelerometer, and LCD.
 
