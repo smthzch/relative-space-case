@@ -14,3 +14,10 @@ Components:
 - 16x2 LCD w/ SPL780D display driver
 
 [![demo video](https://img.youtube.com/vi/T7zT_6sQqaQ/0.jpg)](https://www.youtube.com/watch?v=T7zT_6sQqaQ)
+
+## Build Schematics & Notes
+
+![wiring](build_notes_1.jpg)
+
+![notes](build_notes_2.jpg)
+
